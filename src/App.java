@@ -14,6 +14,18 @@ public class App {
      System.out.println("onnea");
      System.out.println("sinulle");
  }
+ if (ika == 65){
+    System.out.println("hyvia elakepaivia");
+     }
+    if (ika >= 0 && ika < 18) {
+        System.out.println("olet alaikainen");
+    if (ika >= 15){
+        System.out.println("saat ajaa mopoa");
+    if (ika >= 16 && ika <= 17) {
+        System.out.println("saat ajaa kevaria");
+       
+    }
+
 }
 }
 

@@ -25,7 +25,24 @@ public class App {
         System.out.println("saat ajaa kevaria");
        
     }
+}
+}
+else if (ika >= 58 && ika < 65){
+    System.out.println("voit menna varhaiselakkeelle");
+}
+else if (ika >= 65){
+    System.out.println("olet elakelainen");
+}
+else {
+    System.out.println("olet aikuinen");
+}
+if (ika >= 40 && ika <= 50) {
+    System.out.println("parasta keski-ikää!");
+   
+}
+   }
+
 
 }
-}
+
 
